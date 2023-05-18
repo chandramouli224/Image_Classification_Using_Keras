@@ -1,2 +1,2 @@
 # Image_Classification_Using_Keras
-Image classification from scratch using keras, starting from JPEG image files on disk, without leveraging pre-trained weights or a pre-made Keras Application model to demonstrate the workflow on the Kaggle Cats vs Dogs binary classification dataset.
+This project involves the initiation and development of an image classification system using Keras. We will commence from raw JPEG image files stored on disk, specifically foregoing the use of pre-trained weights or an existing Keras Application model. The primary aim is to illustrate the entire workflow using the Kaggle Cats versus Dogs dataset, a binary classification task.
